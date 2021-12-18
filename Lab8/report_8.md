@@ -2,7 +2,7 @@
 # Front matter
 title: "Отчёт по лабораторной работе №8"
 subtitle: "Шифр гаммирования"
-author: "Абдималик Гафиров НФИбд-01-18"
+author: "Панин Михаил НП-02-18"
 
 # Generic otions
 lang: ru-RU
